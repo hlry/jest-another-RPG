@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "a role playing game you can play in your terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlry/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "CLI"
+  ],
+  "author": "hlry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hlry/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/hlry/jest-another-RPG#readme"
+}
