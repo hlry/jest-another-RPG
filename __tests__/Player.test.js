@@ -3,8 +3,6 @@ const Potion = require('../lib/Potion');
 
 jest.mock('../lib/Potion');
 
-console.log(new Potion());
-
 // tests creation of a player
 test('creates a player object', () => {
     const player = new Player('Dave');
@@ -18,7 +16,7 @@ test('creates a player object', () => {
     );
 });
 
-// get states
+// get stats
 test("gets player's stats as an object", () => {
     const player = new Player('Dave');
 
