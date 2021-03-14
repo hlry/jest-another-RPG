@@ -22,5 +22,8 @@
   "homepage": "https://github.com/hlry/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
   }
 }
